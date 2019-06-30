@@ -26,7 +26,7 @@ class Nav extends Component {
     window.addEventListener("resize", this.updateWidth);
   }
 
-  // // componentWillUnMount() {
+  // componentWillUnMount() {
   //   window.removeEventListener("resize", this.updateWidth);
   // }
 
