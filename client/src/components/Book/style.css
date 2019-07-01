@@ -1,6 +1,8 @@
 .btn-container {
   float: right;
+  font-family: 'Stylish', sans-serif; 
 }
+
 
 @media (max-width: 767px) {
   .btn-container {
