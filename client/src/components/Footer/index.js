@@ -4,8 +4,8 @@ function Footer() {
   return (
     <footer>
       <hr />
-      <p className="pull-right ">
-        <i className="fab fa-github" /> G Pierce Lusk 2019
+      <p className="pull-right">
+        <a href="https://github.com/gpiercelusk/react-google-search" className="text-decoration-none text-light"> <i className="fab fa-github" /> G Pierce Lusk 2019</a>
       </p>
     </footer>
   );
