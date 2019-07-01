@@ -4,7 +4,7 @@ import "./style.css";
 function Card({ icon, title, children }) {
   return (
     <div className="card mt-4">
-      <div className="card-header text-light bg-dark">
+      <div className="card-header text-light">
         <h3>
           <strong>
             <i className={`fa fa-${icon}`} aria-hidden="true" /> {title}
